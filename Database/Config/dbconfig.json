@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "username_here",
+    "password": "password_here",
+    "database": "database_here",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
