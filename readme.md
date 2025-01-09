@@ -7,7 +7,6 @@ This guide will help you set up and run the project on your local machine.
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Manthan472003/Backend-Boilerplate.git
-   cd your-repo
    ```
 
 2. **Configure the Database**
